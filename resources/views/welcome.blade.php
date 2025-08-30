@@ -95,7 +95,7 @@
                         <div class="col-lg-6 hero-content-left">
                             <div class="ai-badge">
                                 <i class="fas fa-robot"></i>
-                                {{ __('app.ai_powered') }} ssasda
+                                {{ __('app.ai_powered') }}
                             </div>
                             
                             <h1 class="hero-heading">{{ __('app.smart_patient_tracking') }}</h1>
